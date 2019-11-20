@@ -6,7 +6,7 @@ var somma = 0;
 for (var i = 1; i <= 10; i++) {
     console.log(i);
     somma = somma + i;
-    media = somma % 10;
+    media = somma / 10;
 }
 
 console.log("La somma è " + somma);
