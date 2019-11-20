@@ -1,6 +1,5 @@
  // Calcola la somma e la media dei primi 10 numeri.
 
-// var numero = [] ;
 var media = 0;
 var somma = 0;
 for (var i = 1; i <= 10; i++) {
