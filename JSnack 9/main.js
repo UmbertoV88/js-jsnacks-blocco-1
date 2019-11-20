@@ -10,3 +10,4 @@ for (var i = 1; i <= 10; i++) {
 
 console.log("La somma è " + somma);
 console.log("La media è " + media);
+//
